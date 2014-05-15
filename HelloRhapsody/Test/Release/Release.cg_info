@@ -1,0 +1,28 @@
+I-Logix-RPY-Archive version 8.9.0 * 7155907
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 2;
+	- value = "Test\\Release\\Display.cpp" 5.15.2014::1:49:0
+	"Test\\Release\\Display.h" 5.15.2014::1:41:47
+	
+}
+- size = 2;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = "Test.cmp";
+	- _subsystem = "";
+	- _class = "";
+	- _name = "Test\\Release";
+	- _id = GUID 4e8e9d3a-2854-416f-bb2e-d823b883db89;
+}
+- genTime = 5.15.2014::1:49:0;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = "Default.sbs";
+	- _subsystem = "Default";
+	- _class = "";
+	- _name = "Display";
+	- _id = GUID 19b91092-6bb3-4646-ab30-6b1623fe63dc;
+}
+- genTime = 5.15.2014::1:49:0;
+

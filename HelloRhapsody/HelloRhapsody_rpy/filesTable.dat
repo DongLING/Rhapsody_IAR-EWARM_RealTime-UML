@@ -1,0 +1,10 @@
+I-Logix-RPY-Archive version 8.9.0 * 7155907
+
+- filesTable = { IRPYRawContainer 
+	- size = 3;
+	- value = "HelloRhapsody.rpy" ""
+	"HelloRhapsody_rpy\\Default.sbs" "Default"
+	"HelloRhapsody_rpy\\Test.cmp" "Test"
+	
+}
+
